@@ -22,9 +22,8 @@
 //////////////////////////////////////////////////////////////////////////////////
 // header-end
 //
-##
 // C version
-// compiled with gcc 4.9.2
+// compiled with gcc 5.3.0
 // gcc -O3 -o mean_and_median_c_version mean_and_median.c
 //
 #include <stdlib.h>
