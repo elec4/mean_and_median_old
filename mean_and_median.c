@@ -1,26 +1,27 @@
-##
-## header-start
-##################################################################################
-##
-## \file      mean_and_median.c
-##
-## \brief     This file belongs to the C++ tutorial project
-##
-## \author    Bernard
-##
-## \copyright Copyright ng2goodies 2015
-##            Distributed under the MIT License
-##            See http://opensource.org/licenses/MIT
-##
-##################################################################################
-## header-log
-##
-## $Author$
-## $Date$
-## $Revision$
-##
-##################################################################################
-## header-end
+//
+// header-start
+//////////////////////////////////////////////////////////////////////////////////
+//
+// \file      mean_and_median.c
+//
+// \brief     This file belongs to the C++ tutorial project
+//
+// \author    Bernard
+//
+// \copyright Copyright ng2goodies 2015
+//            Distributed under the MIT License
+//            See http://opensource.org/licenses/MIT
+//
+//////////////////////////////////////////////////////////////////////////////////
+// header-log
+//
+// $Author$
+// $Date$
+// $Revision$
+//
+//////////////////////////////////////////////////////////////////////////////////
+// header-end
+//
 ##
 // C version
 // compiled with gcc 4.9.2
